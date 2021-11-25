@@ -125,6 +125,11 @@ body {
     
 }
 
+button:hover {
+    cursor: pointer;
+    opacity: 0.9;
+}
+
 .img_products {
     display: block;
 }
